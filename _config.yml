@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhennan Zhou"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "App Developer | HCI Enthusiast | Constant Learner"
   location         : "Seattle, WA"
   employer         :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhennan-zhou-a12b35152/" 
+  linkedin         : "zhennan-zhou-a12b35152/" 
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/johnnnzhou"
+  twitter          : "johnnnzhou"
   vine             :
   weibo            :
   xing             :
@@ -200,7 +200,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -215,7 +215,7 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
       comments: true
   # _publications
@@ -224,7 +224,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
       comments: true
   # _portfolio
@@ -234,7 +234,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
@@ -242,7 +242,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: false
 
 # Sass/SCSS
