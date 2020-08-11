@@ -84,6 +84,41 @@
   }
 }
 
+blockquote {
+  font-size: 1em;
+  font-style: normal;
+  padding: 30px 38px;
+  margin: 0 0 15px;
+  position: relative;
+  line-height: 1.8;
+  text-indent: 0;
+  border: none;
+  color: #888;
+}
+blockquote:before {
+  content: "“";
+  left: 12px;
+  top: 0;
+  color: #E0E0E0;
+  font-size: 4em;
+  font-family: Arial, serif;
+  line-height: 1em;
+  font-weight: 700;
+  position: absolute;
+}
+blockquote:after {
+  content: "”";
+  right: 12px;
+  bottom: -26px;
+  color: #E0E0E0;
+  font-size: 4em;
+  font-family: Arial, serif;
+  line-height: 1em;
+  font-weight: 700;
+  position: absolute;
+  bottom: -31px;
+}
+
 
 /*
    List view
