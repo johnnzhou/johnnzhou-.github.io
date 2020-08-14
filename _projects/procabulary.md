@@ -10,12 +10,12 @@ output: "./test.css"
 ---
 
 <!-- ![](../images/procabulary.png)<br> -->
-ProCabulary is wearable-mobile app pair that take advantages of continuous speech capture technology to help people expand vocabulary in their professional industries and speak like a professional. 
+ProCabulary is wearable-mobile app pair that take advantage of continuous speech capture technology to help people expand vocabulary in their professional industries and speak like a professional. 
 
 
 Duration: 2020.01-2020.03 (11 weeks)
 
-My Role: In charge of user research, usability testing and ​design the user flows and user interfaces.
+My Role: In charge of user research, usability testing, and ​design the user flows and user interfaces.
 
 Methods: User Research, Contextual Inquiry, Heuristic Evaluation, Task Analysis, Usability Testing, Information Architecture
 
@@ -37,39 +37,39 @@ For people new to their professional fields, understanding the professional lang
 Our solution is to develop a wearable-mobile app pair: the wearable captures speech when prompted, and the smartphone app offers insights, analysis, and ways to help the users improve their vocabulary, through both understanding new words and using those words in their conversations.  
 
 ### Design Process
-Throughout the 10-week course, my team and I structured our research and design process following an interative design process.
+Throughout the 10-week course, my team and I structured our research and design process following an iterative design process.
 ![](/images/design_process.png)
 
 ### User Research
-To better understand our target users: people who have problems in imporving vocabulary in their fields, we conducted interviews with them to understand their concerns, worries and expectations.
+To better understand our target users: people who have problems in improving vocabulary in their fields, we conducted interviews with them to understand their concerns, worries, and expectations.
 ![](/images/procab_users.jpg)
 
 **Research Findings Summary**
-From interviews we conducted, we compiled 4 main research takeaways:
+From the interviews we conducted, we compiled 4 main research takeaways:
 * People initially had trouble comprehending sophisticated jargon unique to their specific environment.
-* The issues and concerns of collecting new information from intellectual discussions with peers and colleagues in their respective fields was also univerally expressed across all our participants.
-* the process of incorporating technical terminologies consistently in one's own everyday speech is rather slow.
+* The issues and concerns of collecting new information from intellectual discussions with peers and colleagues in their respective fields were also universally expressed across all our participants.
+* the process of incorporating technical terminologies consistently in one's everyday speech is rather slow.
 * People were also seemingly curious about similarities and differences in their speech among different settings of daily conversations.
 
 ### Task Analysis
 
 **Identified Tasks**
 
-Based on the insights from our user research, we listed out the main tasks that embody the objectives our target audience want to accomplish and the particularly needs they have: 
+Based on the insights from our user research, we listed out the main tasks that embody the objectives our target audience want to accomplish and the particular needs they have: 
 
 **Task 1: Identify and compile new terms and vocabulary**
 
-4 interviewees all expressed their concerns to quickly comprehend and extract important terms in fast-paced intelectual discussions.
+4 interviewees all expressed their concerns to quickly comprehend and extract important terms in fast-paced intellectual discussions.
 
 **Task 2: Review and study identified vocabulary**
 
-The majority of our interviewees told us that they have to review and momorize them constantly. Their solutions to this issue is constantly reminding themselves to review materialis they've studied.
+The majority of our interviewees told us that they have to review and memorize them constantly. Their solutions to this issue are constantly reminding themselves to review the materials they've studied.
 
 **Task 3: Integrate vocabulary into daily conversations**
 
-The process of remembering and integrating newly-gathered information into their speech is too slow to be practical without any external forces. They constantly find it difficult to natually incorporate those words into <u>appropriate contexts</u>.
+The process of remembering and integrating newly-gathered information into their speech is too slow to be practical without any external forces. They constantly find it difficult to naturally incorporate those words into <u>appropriate contexts</u>.
 
-**Task 4: Indetify places for improvements**
+**Task 4: Identify places for improvements**
 
 Even though our participants have spent time reviewing and extracting important information, they always lack a clear goal to enhance and hone their skills, let alone where they are heading to.
 
@@ -81,14 +81,14 @@ We discovered that reinforcing good behaviors and improvements by offering small
 
 **Design Ideas**
 
-Based on the tasks and research result, we came up with 3 ideas that address different tasks.
+Based on the tasks and research results, we came up with 3 ideas that address different tasks.
 ![](/images/procab_design_ideas.png)
 
-After weighing all the pros and cons, we chose to combine the second and the third designs. Together, these 2 designs address a majority of goals we identified from our participants: pinpointing new terms and vocabularies, reviewing and getting familiarized with those new words/info, and evaluating their proess.
+After weighing all the pros and cons, we chose to combine the second and third designs. Together, these 2 designs address a majority of goals we identified from our participants: pinpointing new terms and vocabularies, reviewing and getting familiarized with those new words/info, and evaluating their progress.
 
 ![](/images/procab_solution_analysis.jpg)
 
-The combiend design contains a wearable to support audio recording as well as a smartphone for data presentation. Smartphones make analysis and reflection on those captured data much easier, and wearable allows for a less intrusive method of continuous speech capture. 
+The combined design contains a wearable to support audio recording as well as a smartphone for data presentation. Smartphones make analysis and reflection on those captured data much easier, and wearable allows for a less intrusive method of continuous speech capture. 
 
 <blockquote>
 Learning a new language can be intimidating, we want to make the process quicker and smoother.
@@ -105,16 +105,16 @@ Learning a new language can be intimidating, we want to make the process quicker
 
 **User Testing**
 
-Our testing process includes 3 heuristic evaluations, 2 design critiques, and 3 usability tests of out paper prototype with our target participants who have particular requirements to master their sophosticated and specialized jargons and information in their professional realms.
+Our testing process includes 3 heuristic evaluations, 2 design critiques, and 3 usability tests of out paper prototype with our target participants who have particular requirements to master their sophisticated and specialized jargon and information in their professional realms.
 
 
 **Heuristic Evaluation & Usability Testing**
 
-In the testing process, after a brief introduction of the system and our study, we asked our participants to attempt to fnish 2 of our primary tasks:
+In the testing process, after a brief introduction of the system and our study, we asked our participants to attempt to finish 2 of our primary tasks:
 1. Record conversation and review identified vocabulary.
 2. Review suggestions for speech improvements.
 
-In each test, we were assigned certains roles including facilitator, the "computer" and the note taker. Asking the participants to "think it aloud" helped us understand our participants' interpretation of the system.
+In each test, we were assigned certain roles including the facilitator, the "computer", and the note taker. Asking the participants to "think it aloud" helped us understand our participants' interpretation of the system.
 
 <p style="display: block; margin: auto; text-align: center;">
   <img src="/images/procab_usability_testing1.jpg" width="100%" style="max-width: 250px; vertical-align: top;" class="m-3 border rounded">
@@ -125,7 +125,7 @@ In each test, we were assigned certains roles including facilitator, the "comput
 
 **Design Critique**
 
-In the evaluation workshop, we received design critiques from our 2 TAs, regarding the goal setup process. Their questions where instructive and enlightening for us, as it pushed us to think thoroughly and profoundly in terms of the pivotal goal-setting process and its potential influence on users' followng actions.
+In the evaluation workshop, we received design critiques from our 2 TAs, regarding the goal setup process. Their questions where instructive and enlightening for us, as it pushed us to think thoroughly and profoundly in terms of the pivotal goal-setting process and its potential influence on users' following actions.
 ![](/images/procab_design_critique.jpg)
 
 **Major Issues**
@@ -133,7 +133,7 @@ In the evaluation workshop, we received design critiques from our 2 TAs, regardi
 
 **Iterations**
 
-We decided to revise our design by addressing the issues identified by our participants and them test for another round.
+We decided to revise our design by addressing the issues identified by our participants and then test for another round.
 
 **Set up specified status and goals**
 ![](/images/procab_iteration1.jpg)
@@ -190,7 +190,7 @@ We decided to revise our design by addressing the issues identified by our parti
 
 ### Reflection
 
-Getting feedback from our target audience helped us tremendously in refining the interface design and workflow. Personalized goals setting, less-steep learning curve and encouragement for practices are all key qualities that our participants value, and those qualities should be empathized in the next iteration. Moving forward, I also want to dig into the visual design of weekly statistical report, which is shown in the homepage and timeline page. A visually-appealing and effective report would help users keep track of their progress and encourage them to perform better. 
+Getting feedback from our target audience helped us tremendously in refining the interface design and workflow. Personalized goals setting, less-steep learning curve and encouragement for practices are all key qualities that our participants value, and those qualities should be emphasized in the next iteration. Moving forward, I also want to dig into the visual design of the weekly statistical report, which is shown in the homepage and timeline page. A visually-appealing and effective report would help users keep track of their progress and encourage them to perform better. 
 
 
 More details can be found on the project's [website](https://courses.cs.washington.edu/courses/cse440/20wi/projects/procabulary/):
