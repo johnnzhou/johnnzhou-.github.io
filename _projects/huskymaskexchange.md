@@ -1,5 +1,5 @@
 ---
-title: "Husky Mask Exchange"
+title: "Husky Mask Exchange(Best Design Award)"
 collection: projects
 type: "Projects"
 permalink: /projects/huskymaskexchange
