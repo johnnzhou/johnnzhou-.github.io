@@ -105,7 +105,7 @@ Learning a new language can be intimidating, we want to make the process quicker
 
 **User Testing**
 
-Our testing process includes 3 heuristic evaluations, 2 design critiques, and 3 usability tests of out paper prototype with our target participants who have particular requirements to master their sophisticated and specialized jargon and information in their professional realms.
+Our testing process includes 3 heuristic evaluations, 2 design critiques, and 3 usability tests of out paper prototype with our target participants who have particular requirements to master their sophisticated and specialized jargon and information in their professional realms. We also applied participatory design method in iterating and refining our prototype.
 
 
 **Heuristic Evaluation & Usability Testing**

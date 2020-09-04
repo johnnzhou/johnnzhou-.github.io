@@ -39,7 +39,7 @@ Throughout the 11-week project timeline, my team and my structured our research,
 ![](/images/design_process.png)
 
 ### User Research
-In the very early stage, the team was focusing on distributing and exchanging masks via vending machines. In order to understand our target audience better, the team set out to conduct various user research, using semi-structured interviews, surveys based on ***A***ctivities, ***E***nvironments, ***I***nteractions, ***O***bjects, ***U***sers framework. 
+In the very early stage, the team was focusing on distributing and exchanging masks via vending machines. In order to understand our target audience better, the team set out to conduct various user research, using semi-structured interviews, participatory design method, surveys based on ***A***ctivities, ***E***nvironments, ***I***nteractions, ***O***bjects, ***U***sers framework. 
 
 ![](/images/user-research.png)
 

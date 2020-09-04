@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Zhennan(John) Zhou. Currently, I'm a senior from [University of Washington, Seattle](https://www.uw.edu), majoring in Computer Science. I'm interested in Human-Computer Interactions, Human-Centered Design and Computing in general. In my part time, I'm also an indie iOS developer. 
+Hi, I'm Zhennan(John) Zhou. Currently, I'm a senior at the [University of Washington, Seattle](https://www.uw.edu), majoring in Computer Science. I'm interested in Human-Computer Interactions, Software Engineering, Human-Centered Design and Computing in general. In my part time, I'm also an indie and dedicated iOS developer. 
 
 I am currently an undergraduate research assistant in Human-Centered Design & Engineering at UW under Professor Kate Starbird, Professor Gary Hsieh and PhD candidate Himanshu Zade's research group. We are working on investigating solutions for improving the quality of online participation, particularly on Twitter.  
