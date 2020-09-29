@@ -21,9 +21,9 @@ output: "./test.css"
 
 **Duration**: Jan. 2020 - Current
 
-**My Role**: Project Leader, Core Developer, In charge of user research, usability testing, and ​design the user flows and user interfaces transition and animation.
+**My Role**: Project Leader, Core Developer, In charge of user research, usability testing, and ​design the user flows and user interfaces transition and animation and marketing.
 
-**Tools**: Xcode, Key iOS Frameworks(UIKit, CoreData, etc), Apple Human Interface Guidelines, Adobe XD, Adobe Illustrator
+**Tools**: Xcode, Key iOS Frameworks(UIKit, Cocoa Touch, CoreData, etc), Apple Human Interface Guidelines, Adobe XD, Adobe Illustrator
 
 Project also credit to: [Feiyou Guo(Co-Developer)](https://apps.apple.com/us/app/arithmos-elegant/id1457478056), [Sherry Zhang(Designer)](https://www.sherrywenyizhang.com/), [Candice Wang(Marketing)](https://www.linkedin.com/in/junjinwang/)
 
@@ -35,25 +35,46 @@ Our Logo:
 <br> 
 
 
-<!-- ### Problem Space
-Uncertainty and changes are life constant, particularly during the pandemic and the work-from-home period. As those challenges emerge, the productivity plummets. Imagine: sitting in front of the computer, we are constantly interrupted by "BREAKING NEWS" on Twitter, disturbed by food or mail delivery calls, or even diverted by collegues' or friends' bombarding messages, etc. As a result, time and task management becomes a pressing topic for a lot of us. It is crucially important and necessary for everyone to stay not only mentally healthy but also productive and accountable to assigned tasks.
+### Problem Space
+Uncertainty and changes are life constant, particularly during the pandemic and the work-from-home period. As those challenges emerge, the productivity plummets. Imagine: sitting in front of the computer, we are constantly interrupted by "BREAKING NEWS" on Twitter, disturbed by food or mail delivery calls, or even diverted by collegues' or friends' bombarding messages on Slack,etc. The balance between work and life diminishes, and overtime becomes an unquestionably normal everyday task. 
 
-### User Research
+**How to help people manage their time like a normal day in the offce or school? How to help them avoid overworking issues?**
 
 ### Design Questions
-> How can we help people solve their pain point of low productivity, keep them motivated and focused while still maintain flexible yet accountable to their tasks?
+> How can we help people solve their pain of low productivity, keep them motivated and focused while still maintain flexible yet accountable for their tasks?
 
 > How our interfaces and interactions should look like to provide glanceable and personalized information?
 
+<!-- ### User Research and Analysis -->
 
-### Information Architecture
+### Competitive Analysis
+- Apple Reminder
+    - Simple and straightforward
+    - Easy to use
+- Todo List App
+    - Quick **adding** and **categorizing**
+    - Full-integration with Calendar and Reminder
+    - Team Collaboration across platform and devices
+    - Based on **G**et **T**hings **D**one philisophy.
+
+- What is the innovation of our product? 
+    - Progress tracking visibility 
+    - Incomplete warnings
+    - Late days 
+    - Categories filters
+    - Vacation Mode 
+    - Prioritizing tasks
+    - Simple and easy-to-use 
+
+    
+<!-- ### Information Architecture -->
 
 ### Style Guide
 <img src="/images/Ahead_style.png" alt="Style Guide" width="120%" height="120%">
 
-### Final Design
+<!-- ### Final Design -->
 
-<!-- ### Demo -->
+<!-- <!-- ### Demo -->
 
 ### Reflection and Future Vision
 
