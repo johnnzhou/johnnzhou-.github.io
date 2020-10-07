@@ -34,6 +34,15 @@ Our Logo:
 </center>
 <br> 
 
+Our Posters:
+<p style="display: block; margin: auto; text-align: center;">
+  <img src="/images/Ahead_poster_light.png" width="100%" style="max-width: 380px; vertical-align: top;" class="m-3 border rounded">
+  <img src="/images/Ahead_poster_dark.png" width="100%" style="max-width: 380px; vertical-align: top;" class="m-3 border rounded">
+</p>
+<!-- <img src="/images/Ahead_poster_light.png" alt="poster light" width="50%" height="50%">
+<img src="/images/Ahead_poster_dark.png" alt="poster dark" width="50%" height="50%"> -->
+
+
 
 ### Problem Space
 Uncertainty and changes are life constant, particularly during the pandemic and the work-from-home period. As those challenges emerge, the productivity plummets. Imagine: sitting in front of the computer, we are constantly interrupted by "BREAKING NEWS" on Twitter, disturbed by food or mail delivery calls, or even diverted by collegues' or friends' bombarding messages on Slack,etc. The balance between work and life diminishes, and overtime becomes an unquestionably normal everyday task. 
