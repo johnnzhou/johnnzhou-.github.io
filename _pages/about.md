@@ -12,4 +12,4 @@ Hi, I'm Zhennan(John) Zhou. Currently, I'm a senior at the [University of Washin
 
 I am currently an undergraduate research assistant in Human-Centered Design & Engineering Research Group at UW under [Professor Gary Hsieh](http://faculty.washington.edu/garyhs/), [Professor Kate Starbird](http://faculty.washington.edu/kstarbi/) and PhD candidate Himanshu Zade's research group. We are working on investigating solutions for improving the quality of online participation, particularly on Twitter.  
 
-I also co-develop an Task Management App called [**Ahead**]() on iOS platform, which helps people schedule and organize their daily tasks, keep track of progress and improvements as well as give them motivation to keep going.
+I also co-develop an Task Management App called [**Ahead**](https://johnnzhou.github.io/projects/ahead) on iOS platform, which helps people schedule and organize their daily tasks, keep track of progress and improvements as well as give them motivation to keep going and get rid of procrastination habit.

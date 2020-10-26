@@ -39,8 +39,6 @@ Our Posters:
   <img src="/images/Ahead_poster_light.png" width="100%" style="max-width: 380px; vertical-align: top;" class="m-3 border rounded">
   <img src="/images/Ahead_poster_dark.png" width="100%" style="max-width: 380px; vertical-align: top;" class="m-3 border rounded">
 </p>
-<!-- <img src="/images/Ahead_poster_light.png" alt="poster light" width="50%" height="50%">
-<img src="/images/Ahead_poster_dark.png" alt="poster dark" width="50%" height="50%"> -->
 
 
 
@@ -80,6 +78,8 @@ Uncertainty and changes are life constant, particularly during the pandemic and 
 
 ### Style Guide
 <img src="/images/Ahead_style.png" alt="Style Guide" width="120%" height="120%">
+
+[More details coming soon ....]
 
 <!-- ### Final Design -->
 
