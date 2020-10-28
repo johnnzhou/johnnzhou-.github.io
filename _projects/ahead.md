@@ -7,7 +7,7 @@ year: 2020
 image: "/images/Ahead_front.png"
 output: "./test.css"
 ---
-**Ahead** is a task-centered GTD(Get Things Done) App on iOS platform. It aims to help people **schedule and organize** tasks, **track** progress and improvement and get **motivated**. It also features flexible late day* functionality, simple yet powerful category filters, eye-caring dark mode design and more. Public Testflight: [link](https://testflight.apple.com/join/Daid4Yfu).
+**Ahead** is a task-centered GTD(Get Things Done) App on iOS platform. It aims to help people **schedule and organize** tasks, **track** progress and improvement and avoid **procrastination**. It also features flexible late day, simple yet powerful category filters, eye-caring dark mode design and more. Public TestFlight: [TestFlight link](https://testflight.apple.com/join/Daid4Yfu).
 
 **Key Features**:
 
@@ -23,9 +23,9 @@ output: "./test.css"
 
 **My Role**: Project Leader, Core Developer, In charge of user research, usability testing, and ​design the user flows and user interfaces transition and animation and marketing.
 
-**Tools**: Xcode, Key iOS Frameworks(UIKit, Cocoa Touch, CoreData, etc), Apple Human Interface Guidelines, Adobe XD, Adobe Illustrator
+**Tools**: Xcode, Key iOS Frameworks(UIKit, Cocoa Touch, CoreData, etc), Apple Human Interface Guidelines, Figma, Adobe XD, Adobe Illustrator
 
-Project also credit to: [Feiyou Guo(Co-Developer)](https://apps.apple.com/us/app/arithmos-elegant/id1457478056), [Sherry Zhang(Designer)](https://www.sherrywenyizhang.com/), [Candice Wang(Marketing)](https://www.linkedin.com/in/junjinwang/)
+Project also credit to: [Feiyou Guo(Co-Developer)](https://apps.apple.com/us/app/arithmos-elegant/id1457478056), [Sherry Zhang(Designer)](https://www.sherrywenyizhang.com/)
 
 Our Logo:
 
@@ -40,36 +40,40 @@ Our Posters:
   <img src="/images/Ahead_poster_dark.png" width="100%" style="max-width: 380px; vertical-align: top;" class="m-3 border rounded">
 </p>
 
-
+<br>
+Our Promo Video (also credit to [Sherry Zhang](https://www.sherrywenyizhang.com/)):
+<iframe src="https://player.vimeo.com/video/451327635" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+---
 
 ### Problem Space
-Uncertainty and changes are life constant, particularly during the pandemic and the work-from-home period. As those challenges emerge, the productivity plummets. Imagine: sitting in front of the computer, we are constantly interrupted by "BREAKING NEWS" on Twitter, disturbed by food or mail delivery calls, or even diverted by collegues' or friends' bombarding messages on Slack,etc. The balance between work and life diminishes, and overtime becomes an unquestionably normal everyday task. 
+Uncertainty and changes are life constant, particularly during the pandemic and the work-from-home period. As those challenges emerge, the productivity plummets. Imagine: sitting in front of the computer, we are constantly interrupted by "BREAKING NEWS" on Twitter, disturbed by food or mail delivery calls, or even diverted by colleagues' or friends' bombarding messages on Slack, etc. The balance between work and life diminishes, and overtime becomes an unquestionably new normalcy.
 
-**How to help people manage their time like a normal day in the offce or school? How to help them avoid overworking issues?**
+**How to help people manage their time like a normal day in the office or school? How to help them avoid overworking issues?**
 
 ### Design Questions
-> How can we help people solve their pain of low productivity, keep them motivated and focused while still maintain flexible yet accountable for their tasks?
+> How can we help people solve their pain of low productivity and procrastination, keep them motivated and focused while still maintain flexible yet accountable for their tasks?
 
-> How our interfaces and interactions should look like to provide glanceable and personalized information?
+> How our interfaces and interactions should look like to provide personalized information?
 
-<!-- ### User Research and Analysis -->
+### User Research and Analysis (more coming soon)
+According to our user research and analysis, over 60% of participants, including students, university faculties, engineers and employees, feel less motivated and productive when working/studying from home. While half of them use different levels of Todo app as their main task management and even 手帳（てちょう Agenda/Panner Book), few of them feel like the tool brings them motivation and pushes them forward. A lot of participants commented that those tools eventually become a place where they list everything they need to do and then get overwhelmed.
 
 ### Competitive Analysis
 - Apple Reminder
     - Simple and straightforward
     - Easy to use
 - Todo List App
-    - Quick **adding** and **categorizing**
+    - Quick adding and categorizing
     - Full-integration with Calendar and Reminder
     - Team Collaboration across platform and devices
-    - Based on **G**et **T**hings **D**one philisophy.
+    - Based on **G**et **T**hings **D**one philosophy.
 
-- What is the innovation of our product? 
+- **What are the innovations of our product?** 
     - Progress tracking visibility 
     - Incomplete warnings
-    - Late days 
+    - Contextually-aware Late days 
     - Categories filters
-    - Vacation Mode 
+    - Vacation Mode (coming soon)
     - Prioritizing tasks
     - Simple and easy-to-use 
 
