@@ -23,7 +23,7 @@ output: "./test.css"
 
 **My Role**: Project Leader, Core Developer, In charge of user research, usability testing, and ​design the user flows and user interfaces transition and animation and marketing.
 
-**Tools**: Xcode, Key iOS Frameworks(UIKit, Cocoa Touch, CoreData, etc), Apple Human Interface Guidelines, Figma, Adobe XD, Adobe Illustrator
+**Software Tools**: Xcode, Key iOS Frameworks(UIKit, Cocoa Touch, CoreData, etc), Apple Human Interface Guidelines, Figma, Adobe XD, Adobe Illustrator
 
 Project also credit to: [Feiyou Guo(Co-Developer)](https://apps.apple.com/us/app/arithmos-elegant/id1457478056), [Sherry Zhang(Designer)](https://www.sherrywenyizhang.com/)
 
@@ -53,29 +53,64 @@ Uncertainty and changes are life constant, particularly during the pandemic and 
 ### Design Questions
 > How can we help people solve their pain of low productivity and procrastination, keep them motivated and focused while still maintain flexible yet accountable for their tasks?
 
-> How our interfaces and interactions should look like to provide personalized information?
+> How our interfaces and interactions should look like to provide personalized and contextually-aware information?
 
 ### User Research and Analysis (more coming soon)
-According to our user research and analysis, over 60% of participants, including students, university faculties, engineers and employees, feel less motivated and productive when working/studying from home. While half of them use different levels of Todo app as their main task management and even 手帳（てちょう Agenda/Panner Book), few of them feel like the tool brings them motivation and pushes them forward. A lot of participants commented that those tools eventually become a place where they list everything they need to do and then get overwhelmed.
+According to our user research and analysis, over **60%** of participants, including students, university faculties, engineers and employees, feel less motivated and productive when working/studying from home. They tend to postpone their tasks right before or even after the deadline. Participants also expressed concerns for being able to focus on and maintaining their self-discipline.
+<p>
+    <img src='/images/Ahead_Userresearch.png'>
+</p>
+
+<br>
+**Top 4 major issues** we identified with respect to using Todo app:
+<p>
+    <img src='/images/Ahead_major_issues.png'>
+</p>
+
+
+**User research takeaways**:
+* People need some psychological pushes and incentives to keep them motivated, energetic and productive when working from home.
+* Working/studying from home creates a slacked-off environment, which leads to a messy and less organized schedule.
+* The lack of face-to-face communication disrupts the workflow and priorities during work.
+
 
 ### Competitive Analysis
-- Apple Reminder
-    - Simple and straightforward
-    - Easy to use
-- Todo List App
-    - Quick adding and categorizing
-    - Full-integration with Calendar and Reminder
-    - Team Collaboration across platform and devices
-    - Based on **G**et **T**hings **D**one philosophy.
+While half of them use different levels of Todo app as their main task management and even 手帳（てちょう Agenda/Panner Book), few of them feel like the tool brings them motivation and pushes them forward. A lot of participants commented that those tools eventually become a place where they list everything they need to do and then get overwhelmed.
 
-- **What are the innovations of our product?** 
-    - Progress tracking visibility 
-    - Incomplete warnings
-    - Contextually-aware Late days 
-    - Categories filters
-    - Vacation Mode (coming soon)
-    - Prioritizing tasks
-    - Simple and easy-to-use 
+<p style="display: block; margin: auto; text-align: center;">
+  <img src='/images/Ahead_market_research.png' width="100%" style="max-width: 380px; vertical-align: top;" class="m-3 border rounded">
+  <img src='/images/Ahead_motivation_research.png' width="100%" style="max-width: 380px; vertical-align: top;" class="m-3 border rounded">
+</p>
+<br>
+<p style="display: block; margin: auto; text-align: center;">
+  <img src='/images/Ahead_tools_in_use.png' width="100%" style="max-width: 380px; vertical-align: top;" class="m-3 border rounded">
+  <img src='/images/Agead_tools_give_up.png' width="100%" style="max-width: 380px; vertical-align: top;" class="m-3 border rounded">
+</p>
+
+- Apple Reminder
+    - Powerful integration within Apple's ecosystem.
+    - Simple and straightforward.
+    - Easy to use.
+    - Checklists keep me on schedule.
+- Advanced Todo List App
+    - Quick adding and categorizing.
+    - Full-integration with Calendar and Reminder.
+    - Team Collaboration across platform and devices.
+    - Based on **G**et **T**hings **D**one philosophy.
+    - Powerful tag system that allows me to prioritize important tasks.
+
+---
+
+Combined with user research and analysis and market research, we have designed following functions that stands out among others
+
+Innovations in Ahead:
+
+- Progress tracking visibility 
+- Incomplete warnings
+- Contextually-aware Late days 
+- Categories filters (based on tag, time, title, checklists, due day and so on)
+- Prioritizing tasks 
+- Vacation Mode (*coming soon*)
 
     
 <!-- ### Information Architecture -->
