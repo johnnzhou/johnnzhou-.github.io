@@ -115,13 +115,66 @@ Innovations in Ahead:
     
 <!-- ### Information Architecture -->
 
+### Final Design
+<p style="display: block; margin: auto; text-align: center;">
+  <b style='color=#1d1d1f'> Onboarding</b>
+  <br>
+  <img src="/images/Ahead_screenshot/Ahead_onboarding_1.JPEG" width="100%" style="max-width: 180px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_onboarding_2.JPEG" width="100%" style="max-width: 180px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_onboarding_3.JPEG" width="100%" style="max-width: 180px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_onboarding_4.JPEG" width="100%" style="max-width: 180px; vertical-align: top;" class="m-4 border rounded">
+</p>
+
+<br>
+<p style="display: block; margin: auto; text-align: center;">
+  <b style='color=#1d1d1f'> Home Screens</b>
+  <br>
+  <img src="/images/Ahead_screenshot/Ahead_page_home.JPEG" width="100%" style="max-width: 180px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_page_today.JPEG" width="100%" style="max-width: 180px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_setting_popover.JPEG" width="100%" style="max-width: 180px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_page_incomplete.JPEG" width="100%" style="max-width: 180px; vertical-align: top;" class="m-4 border rounded">
+</p>
+
+<br>
+<p style="display: block; margin: auto; text-align: center;">
+  <b style='color=#1d1d1f'> Category Filter</b>
+  <br>
+  <img src="/images/Ahead_screenshot/Ahead_filter.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_filter_criteria.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_filter_subfield.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
+</p>
+
+<br>
+<p style="display: block; margin: auto; text-align: center;">
+  <b style='color=#1d1d1f'> Tasks </b>
+  <br>
+  <img src="/images/Ahead_screenshot/Ahead_task.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_screenshot_settings.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_screenshot_deadline.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
+</p>
+
+<br>
+<p style="display: block; margin: auto; text-align: center;">
+  <b style='color=#1d1d1f'> Contextual Warning</b>
+  <br>
+  <img src="/images/Ahead_screenshot/Ahead_features_warnings1.JPEG" width="100%" style="max-width: 250px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_features_warnings2.JPEG" width="100%" style="max-width: 250px; vertical-align: top;" class="m-4 border rounded">
+</p>
+
+<br>
+<p style="display: block; margin: auto; text-align: center;">
+  <b style='color=#1d1d1f'> Dark Mode</b>
+  <br>
+  <img src="/images/Ahead_screenshot/Ahead_page_home_dark.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_filter_subfield_dark.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_page_today_dark.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_task_dark.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_screenshot_deadline_dark.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
+</p>
+
 ### Style Guide
 <img src="/images/Ahead_style.png" alt="Style Guide" width="120%" height="120%">
-
 [More details coming soon ....]
-
-<!-- ### Final Design -->
-
 <!-- <!-- ### Demo -->
 
 ### Reflection and Future Vision
