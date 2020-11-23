@@ -23,6 +23,8 @@ Tools: Figma, Photoshop, Illustrator
 
 Project also credit to **Arjun Malhotra, Karron Bansal and Francis Wang**
 
+More details can be found on the project's [website](https://courses.cs.washington.edu/courses/cse440/20wi/projects/procabulary/):
+
 ---
 
 ### Overview
@@ -191,6 +193,3 @@ We decided to revise our design by addressing the issues identified by our parti
 ### Reflection
 
 Getting feedback from our target audience helped us tremendously in refining the interface design and workflow. Personalized goals setting, less-steep learning curve and encouragement for practices are all key qualities that our participants value, and those qualities should be emphasized in the next iteration. Moving forward, I also want to dig into the visual design of the weekly statistical report, which is shown in the homepage and timeline page. A visually-appealing and effective report would help users keep track of their progress and encourage them to perform better. 
-
-
-More details can be found on the project's [website](https://courses.cs.washington.edu/courses/cse440/20wi/projects/procabulary/):
