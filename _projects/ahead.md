@@ -25,7 +25,11 @@ output: "./test.css"
 
 **Software Tools**: Xcode, Key iOS Frameworks(UIKit, Cocoa Touch, CoreData, etc), Apple Human Interface Guidelines, Figma, Adobe XD, Adobe Illustrator
 
-Project also credit to: [Feiyou Guo(Co-Developer)](https://apps.apple.com/us/app/arithmos-elegant/id1457478056), [Sherry Zhang(Designer)](https://www.sherrywenyizhang.com/)
+**Project also credit to: [Feiyou Guo(Co-Developer)](https://apps.apple.com/us/app/arithmos-elegant/id1457478056), [Sherry Zhang(Designer)](https://www.sherrywenyizhang.com/)**
+
+---
+
+My course presentation about Ahead from a design perspective: [webpage](/projects/ahead_presentation/index.html), [PDF](/files/Ahead_Presentation.pdf)
 
 Our Logo:
 
@@ -44,6 +48,7 @@ Our Posters:
 Our Promo Video (also credit to [Sherry Zhang](https://www.sherrywenyizhang.com/)):
 <iframe src="https://player.vimeo.com/video/451327635" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 ---
+
 
 ### Problem Space
 Uncertainty and changes are life constant, particularly during the pandemic and the work-from-home period. As those challenges emerge, the productivity plummets. Imagine: sitting in front of the computer, we are constantly interrupted by "BREAKING NEWS" on Twitter, disturbed by food or mail delivery calls, or even diverted by colleagues' or friends' bombarding messages on Slack, etc. The balance between work and life diminishes, and overtime becomes an unquestionably new normalcy.
