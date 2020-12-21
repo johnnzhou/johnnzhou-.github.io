@@ -60,7 +60,7 @@ Uncertainty and changes are life constant, particularly during the pandemic and 
 
 > How our interfaces and interactions should look like to provide personalized and contextually-aware information?
 
-### User Research and Analysis (more coming soon)
+### User Research and Analysis
 According to our user research and analysis, over **60%** of participants, including students, university faculties, engineers and employees, feel less motivated and productive when working/studying from home. They tend to postpone their tasks right before or even after the deadline. Participants also expressed concerns for being able to focus on and maintaining their self-discipline.
 <p>
     <img src='/images/Ahead_Userresearch.png'>
@@ -144,9 +144,10 @@ Innovations in Ahead:
 <p style="display: block; margin: auto; text-align: center;">
   <b style='color=#1d1d1f'> Category Filter</b>
   <br>
-  <img src="/images/Ahead_screenshot/Ahead_filter.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
-  <img src="/images/Ahead_screenshot/Ahead_filter_criteria.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
-  <img src="/images/Ahead_screenshot/Ahead_filter_subfield.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_filter.JPEG" width="100%" style="max-width: 180px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_filter_criteria.JPEG" width="100%" style="max-width: 180px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_filter_subfield.JPEG" width="100%" style="max-width: 180px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_filter_toolbar.JPEG" width="100%" style="max-width: 180px; vertical-align: top;" class="m-4 border rounded">
 </p>
 
 <br>
@@ -160,7 +161,7 @@ Innovations in Ahead:
 
 <br>
 <p style="display: block; margin: auto; text-align: center;">
-  <b style='color=#1d1d1f'> Contextual Warning</b>
+  <b style='color=#1d1d1f'> In-App Contextual Warnings & Auto Categorization</b>
   <br>
   <img src="/images/Ahead_screenshot/Ahead_features_warnings1.JPEG" width="100%" style="max-width: 250px; vertical-align: top;" class="m-4 border rounded">
   <img src="/images/Ahead_screenshot/Ahead_features_warnings2.JPEG" width="100%" style="max-width: 250px; vertical-align: top;" class="m-4 border rounded">
@@ -171,16 +172,14 @@ Innovations in Ahead:
   <b style='color=#1d1d1f'> Dark Mode</b>
   <br>
   <img src="/images/Ahead_screenshot/Ahead_page_home_dark.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
-  <img src="/images/Ahead_screenshot/Ahead_filter_subfield_dark.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
   <img src="/images/Ahead_screenshot/Ahead_page_today_dark.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
   <img src="/images/Ahead_screenshot/Ahead_task_dark.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
   <img src="/images/Ahead_screenshot/Ahead_screenshot_deadline_dark.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
+  <img src="/images/Ahead_screenshot/Ahead_filter_toolbar_dark.JPEG" width="100%" style="max-width: 200px; vertical-align: top;" class="m-4 border rounded">
 </p>
 
 ### Style Guide
 <img src="/images/Ahead_style.png" alt="Style Guide" width="120%" height="120%">
-[More details coming soon ....]
-<!-- <!-- ### Demo -->
 
 ### Reflection and Future Vision
 
