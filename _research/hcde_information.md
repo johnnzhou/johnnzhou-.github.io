@@ -2,7 +2,7 @@
 title: "Exposing trails of misinformation"
 collection: research
 type: "Research"
-permalink: /projects/drg
+permalink: /research/drg
 venue: ""
 date: 2020-06-01
 year: 2020

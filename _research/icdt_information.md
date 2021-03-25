@@ -2,7 +2,7 @@
 title: "Seattle Local Cellular Networks"
 collection: research
 type: "Research"
-permalink: /projects/ictd
+permalink: /research/ictd
 venue: ""
 date: 2021-01-01
 year: 2021
